@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "My First Project",
+    "cover": "https://placeholder.com",
+    "url": "https://example.com",
+    "author": "Me",
+    "featured": true
+  }
+]
